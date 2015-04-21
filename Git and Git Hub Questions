@@ -2,26 +2,25 @@ Git and Git Hub Questions:
 --------------------------
 
 1. What is the equivalent git command for when you press the Git Hub app "Sync" button?
-
+Commit
 
 2. What is the command for seeing the repository history via the command line?
-
+Git Status
 
 3. In the Git Hub app, I can "discard changes" to a file by right clicking on it. What's the equivalent command on the terminal?
 
 
 4. What does a "pull request" actually do?
-
+Pulls changes made by anyone else working on the file
 
 5. What does a .gitignore file do? 
+Ignores changes you've made
 
-
-6. Why is a .gitignore file usseful?
-
+6. Why is a .gitignore file useful?
+in case you've made a mistake
 
 7. What is "Open Source" software?
-
+source code available to anyone for modification
 
 8. How can "Open Source" software help me with my final project?
-
-
+It will save a lot of time as i wont have to start from scratch
